@@ -8,3 +8,6 @@ class Application
 
 end
 
+require_relative "./application.rb"
+ 
+run Application.new
